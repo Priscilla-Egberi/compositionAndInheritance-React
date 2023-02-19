@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.FancyBorder {
+  border: 3px solid;
+}
+
+.FancyBorder-blue {
+  border-color: blue;
+}
+.FancyBorder-red {
+  border-color: red;
+}
+.FancyBorder-yellow {
+  border-color: yellow;
+}
+.FancyBorder-pink {
+  border-color: pink;
+}
